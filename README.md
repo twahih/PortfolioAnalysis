@@ -16,7 +16,7 @@ This project provides a comprehensive solution for portfolio analysis, stock sel
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-analysis-trading-bot.git`
+1. Clone the repository: `git clone https://github.com/twahih/portfolio-analysis-trading-bot.git`
 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
