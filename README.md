@@ -1,5 +1,7 @@
 # Portfolio Analysis, Stock Selection, and Trading Bot
 
+Author: Herve Twahirwa
+
 This project provides a comprehensive solution for portfolio analysis, stock selection, and automated trading. It includes various modules and algorithms to analyze stock data, select promising stocks, and execute trades based on predefined strategies.
 
 ## Features
